@@ -1,8 +1,0 @@
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\bin\Debug\kruskalmst.exe.config
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\bin\Debug\kruskalmst.exe
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\bin\Debug\kruskalmst.pdb
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\obj\Debug\kruskalmst.csproj.AssemblyReference.cache
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\obj\Debug\kruskalmst.csproj.SuggestedBindingRedirects.cache
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\obj\Debug\kruskalmst.csproj.CoreCompileInputs.cache
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\obj\Debug\kruskalmst.exe
-C:\Users\dell\OneDrive\Desktop\kruskalmst\kruskalmst\obj\Debug\kruskalmst.pdb
